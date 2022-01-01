@@ -1,0 +1,9 @@
+# code=ascii
+
+env
+.env
+**/__pycache__
+*.pyc
+ssh-keys/*
+
+# eof
